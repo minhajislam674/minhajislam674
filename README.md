@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minhaj!</h1>
 <h3 align="center">A full-stack web developer passionate about creating clean, accessible, and responsive web applications, with an affinity for JavaScript development and responsive design/UX principles.</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://minhajislam.de/](https://minhajislam.de/)
 
