@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Minhaj!</h1>
-<h3 align="center">A full-stack web developer passionate about creating clean, accessible, and responsive web applications, with an affinity for JavaScript development and responsive design/UX principles.</h3>
 
-- 🌱 I’m currently learning **AWS** and **Nuxt 3**
+👨‍💻 All of my projects are available at [https://minhajislam.de/](https://minhajislam.de/)
 
-- 👨‍💻 All of my projects are available at [https://minhajislam.de/](https://minhajislam.de/)
-
-- 📫 How to reach me **minhajislam@outlook.de**
-
-- ⚡ Fun fact **I have a thing for outdoor activities, particularly hiking and enjoy documenting my experiences through videography.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect! </h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/minhajislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/minhajislam/" height="30" width="40" /></a>
 </p>
